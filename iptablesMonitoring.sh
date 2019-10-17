@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# hogehoge
+# hogehoge2
 # iptables Monitoring
 grep filter /proc/net/ip_tables_names  > /dev/null 2>&1
 isAlive=$?
